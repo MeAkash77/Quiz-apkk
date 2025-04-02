@@ -13,7 +13,7 @@ A learning management and online assessment system for academic education.
 
 ![schema](https://user-images.githubusercontent.com/87283264/187967219-55bea00e-3151-488a-a4be-d2a95b9d8a5c.png)
 
-## Tech Stack
+## Technology
 
 1. Django 4.0.4
 2. Bootstrap 5.0.2
@@ -95,7 +95,3 @@ Now the project should be running on http://127.0.0.1:8000/
 Login as admin and add some courses, teacher and students.
 
 Demo : https://youtu.be/NyL2ajUNxYk
-
-## License
-
-[The MIT License (MIT)](https://github.com/nz-m/eLMS-SWE/blob/main/LICENCE)
